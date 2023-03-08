@@ -4,7 +4,7 @@
   "description": "Soacial app using express",
   "main": "index.js",
   "scripts": {
-    "start":"nodemon index.js",
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -14,5 +14,14 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyach19/Codeial.git"
+  },
+  "bugs": {
+    "url": "https://github.com/priyach19/Codeial/issues"
+  },
+  "homepage": "https://github.com/priyach19/Codeial#readme"
 }
